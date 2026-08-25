@@ -1,0 +1,17 @@
+# Generated data & logs — regenerated on each run, don't commit
+*.csv
+*.log
+*.status
+*_walls_frozen.json
+es_last_run.log
+last_run.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp

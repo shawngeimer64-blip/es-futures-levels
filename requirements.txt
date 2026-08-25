@@ -1,0 +1,4 @@
+requests
+yfinance
+numpy
+scipy
